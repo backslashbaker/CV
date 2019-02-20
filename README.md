@@ -42,6 +42,7 @@ Projects below listed are projects I've worked on as part of the internship.
 #### 8th Light (2018 - 2019)
 
 *Intern Software Crafter*
+
 In this role I built upon my passion for code and expanded my knowledge on Ruby and Javascript. During my time there I learnt several theories around Object Orientated Development and Test Driven Development. I have built several applications as part of this internship and have gained experience working in a consultancy environment.
 
 #### The Frontline Organisation (2017 - 2018)
