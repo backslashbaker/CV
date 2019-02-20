@@ -1,6 +1,8 @@
 ## Derek Baker
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Contact](#contact)
+
+
 I am an enthusiastic developer who trained at 8th Light, a software consultancy.
 I'm a self-starter with extensive experience working in customer-facing and user-focused roles in a range of environments: from IT to project management and office management. I'm a quick learner with a keen interest in exploring web technologies, and a genuine passion for solving everyday problems through code. I was part of the core team at Blackgirl.tech and used my skills to help get more black women and girls into the tech industry.
 I am looking for a working environment where I can continue to learn and grow as a developer.
