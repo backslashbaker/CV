@@ -39,9 +39,9 @@ Projects below listed are projects I've worked on as part of the internship.
 
 ## <a name="experience">Experience</a>
 
-#### 8th Light (2018 - 2019)
+#### 8th Light (2018 - 2020)
 
-*Intern Software Crafter*
+*Intern Software Crafter/ apprentice crafter*
 
 In this role I built upon my passion for code and expanded my knowledge on Ruby and Javascript. During my time there I learnt several theories around Object Orientated Development and Test Driven Development. I have built several applications as part of this internship and have gained experience working in a consultancy environment.
 
