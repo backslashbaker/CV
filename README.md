@@ -14,12 +14,12 @@ I am looking for a working environment where I can continue to learn and grow as
 I pride myself in my training and communication abilities. I have demonstrated experience in varied scenarios from one to one to organisational wide training.
 
 - I provided training, mentorship and support to participants on a number of social media platforms, Microsoft Office programs and Office Administration, as part of the Employment Preparation Programme.
-- Designed and executed branch-wide training sessions; delivered staff and sales briefings for all new products, software and procedures. Ensured quality control and coordination of all technical processes and continually developed the service standards within several branches, which increased the overall efficiency of all systems and processe
+- Designed and executed branch-wide training sessions; delivered staff and sales briefings for all new products, software and procedures. Ensured quality control and coordination of all technical processes and continually developed the service standards within several branches, which increased the overall efficiency of all systems and processes
 - I am able to communicate effectively with people on all levels; explaining technical topics to people without an engineering background.
 
 #### Project Management
 
-I have significant experience in planning, organising and executing sevaral different level projects. I have project managed several office moves nationally and upgraded IT infrastructure.
+I have significant experience in planning, organising and executing several different level projects. I have project managed several office moves nationally and upgraded IT infrastructure.
 
 - In a previous role, I managed the relocation of two regional offices (Manchester and Newcastle), including the set up of IT services and space planning. Managed several stakeholders during the projects from regional teams to third party suppliers.
 - Successfully created a brand new region for The Frontline in Milton Keynes. This included contract negotiation for leasing of office and space planning to take into account team growth. Set up of IT services in a timely fashion so the new team can get up and running as soon as possible.
@@ -43,27 +43,29 @@ Projects below listed are projects I've worked on as part of the internship.
 
 *Intern Software Crafter/ apprentice crafter*
 
-In this role I built upon my passion for code and expanded my knowledge on Ruby and Javascript. During my time there I learnt several theories around Object Orientated Development and Test Driven Development. I have built several applications as part of this internship and have gained experience working in a consultancy environment.
+In this role I built upon my passion for code and expanded my knowledge on Ruby and Javascript. During my time there I learnt several theories around Object Orientated Development and Test Driven Development. I have built several applications as part of this internship and have gained experience working in a consultancy environment. I progressed from the internship to the full apprenticeship programme in 2019 where I was able to focus more on TDD and build more quality, clean code with the support of mentors and other apprentices.
 
 #### The Frontline Organisation (2017 - 2018)
 
 *Facilities and Office Management Officer*
 
-- Manage relationships with contractors and suppliers for the building including cleaning services, IT, phones, photocopier and stationary.
-- Working with the HR and Operations Coordinator to coordinate the set–up and distribution of IT equipment for new starters including email, access to the shared drive, mobile phones and laptops.
-- Responsible for the overall management of our regional office spaces in Birmingham, Newcastle and Manchester.
-- Project manage the setup of any new regional office spaces as the organisation expands its programmes.
-- Liaise with site managers and Heads of Region on the service provided and lead on resolving any issues.
+- Managed all facilities and IT including:
+  * Distribution of IT equipment for 100+ staff
+  * Managed 10 suppliers including Vodafonne, negotiated cost saving contracts which led to £500 annual saving.
+- Managed the set–up and distribution of IT equipment for new starters including email, access to the shared drive, mobile phones and laptops.
+- Led on the expansion of office space, setting up three new offices in Birmingham, Newcastle and Manchester.
+- Created a facilities and management query system, significally increasing response time and customer service.
+- First point of contact for all facilities, IT and technology for an organisation of 100
 
 #### The House of St Barnabas (2014 - 2017)
 
 *Office and IT Executive*
 
-- Providing 1st line support, including installing and upgrading network, PC hardware and software applications.
-- Providing training, mentorship and support to participants on a number of social media platforms, Microsoft Office programs and Office Administration, as part of the Employment Preparation Programme.
+- Provided 1st line support, including installing and upgrading network, PC hardware and software applications.
+- trainined over 50 participants on a number of social media platforms, Microsoft Office programs and Office Administration, as part of the Employment Preparation Programme, supporting them getting back into work 
 - Working closely with the CEO to ensure that the business systems are supporting the business needs and providing alternative solutions where required.
-- Setup and manage the governance of the IT Working Group that meet quarterly to oversee the IT project and operations road map.
-- Supporting the organisation with administration of database (SugarCRM).
+- Managed the governance of the IT Working Group that meet quarterly to oversee the IT project and operations road map.
+- Managed the organisations CRM system.
 
 #### Blackgirl.tech (2016 - 2017)
 
